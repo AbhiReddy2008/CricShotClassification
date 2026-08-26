@@ -1,6 +1,7 @@
 # Dataset
 Dataset/RawData/
 Dataset/ProcessedData/
+Dataset/datasetAnalysis/*.csv
 
 # Virtual Environment
 .venv/
